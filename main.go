@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	var hoge string = "taro"
-	fmt.Println("Hello, world!")
+	fmt.Println(hoge)
 }
